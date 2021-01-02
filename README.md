@@ -5,7 +5,8 @@ The py-motmetrics library provides a Python implementation of metrics for multip
 
 ## Steps to do:
 
-1. Download this repository
+1. Download this repository or
+2. clone it **git clone https://github.com/harsul/Motmetrics.git**
 
 ## RUN COMMAND
 
