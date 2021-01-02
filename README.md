@@ -5,6 +5,15 @@ The py-motmetrics library provides a Python implementation of metrics for multip
 
 ## Steps to do:
 
+1. Download this repository
+
+## RUN COMMAND
+
+*python -m motmetrics.apps.eval_motchallenge (yourPathtoExampleFolderGroundTruth) (yourPathToExampleFolder)*
+
+
+# Do with your own dataset
+
 * Download data sets from [MOT Chellenge](https://motchallenge.net/)
 
 * Run your MOT framework (I ran the [DeepSORT](https://github.com/nwojke/deep_sort) on MOT16-03)
@@ -19,9 +28,7 @@ The py-motmetrics library provides a Python implementation of metrics for multip
 
 * Open Python and run the code
 
-## RUN COMMAND
 
-*python -m motmetrics.apps.eval_motchallenge (yourPathtoExampleFolderGroundTruth) (yourPathToExampleFolder)*
 
 
 
