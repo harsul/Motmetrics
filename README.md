@@ -12,7 +12,7 @@ The py-motmetrics library provides a Python implementation of metrics for multip
 *python -m motmetrics.apps.eval_motchallenge (yourPathtoExampleFolderGroundTruth) (yourPathToExampleFolder)*
 
 
-# Do with your own dataset
+# Do with your own dataset results
 
 * Download data sets from [MOT Chellenge](https://motchallenge.net/)
 
@@ -26,7 +26,7 @@ The py-motmetrics library provides a Python implementation of metrics for multip
 
 * Copy the **results.txt** inside the same folder 
 
-* Open Python and run the code
+* Open Python and run the command
 
 
 
