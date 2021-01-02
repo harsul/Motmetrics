@@ -21,7 +21,7 @@ The py-motmetrics library provides a Python implementation of metrics for multip
 
 ## RUN COMMAND
 
-*python -m motmetrics.apps.eval_motchallenge (yourPathtoGroundTruth) (yourPathtoresults)*
+*python -m motmetrics.apps.eval_motchallenge (yourPathtoEcampleFolderGroundTruth) (yourPathToExampleFolder)*
 
 
 
