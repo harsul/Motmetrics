@@ -21,11 +21,9 @@ The py-motmetrics library provides a Python implementation of metrics for multip
 
 * Save tracking results as **file_name.txt**
 
-* Make folder name as same of the **results** file that has got tracking results 
+* Make folder name as same of the **file_name** file that has got tracking results 
 
 * Copy **gt** from MOT folder inside results folder and make sure that you have **gt.txt** inside it  
-
-* Copy the **results.txt** inside the same folder 
 
 * Open Python and run the command
 
