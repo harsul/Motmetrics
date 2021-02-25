@@ -7,7 +7,7 @@ The py-motmetrics library provides a Python implementation of metrics for multip
 
 * Download data sets from [MOT Chellenge](https://motchallenge.net/)
 
-* Run your MOT framework (I ran the [DeepSORT](https://github.com/nwojke/deep_sort) on MOT16-03)
+* Run your MOT framework (I ran the [DeepSORT](https://github.com/nwojke/deep_sort) on MOT16)
 
 * Save tracking results as **MOT16-XX.txt**
 
