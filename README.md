@@ -11,9 +11,7 @@ The py-motmetrics library provides a Python implementation of metrics for multip
 
 * Save tracking results as **MOT16-XX.txt**
 
-* Make folder name as same of the **MOT16-XX** file that has got tracking groundtruth from dataset 
-
-* Copy **gt** from MOT folder inside results folder and make sure that you have **gt.txt** inside it  
+* Make folder name as same of the **MOT16-XX** and Copy **gt** from MOT dataset folder and make sure that you have **gt.txt** inside it  
 
 * Open Python and run the command
 
